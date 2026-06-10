@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "gws-helper@ledevia": {
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://github.com/GWSAnyone/gws-helper-dist/releases/download/v1.0/gws_helper-1.0.xpi"
+        }
+      ]
+    }
+  }
+}
