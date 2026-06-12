@@ -3,8 +3,8 @@
     "gws-helper@ledevia": {
       "updates": [
         {
-          "version": "1.6.2",
-          "update_link": "https://github.com/GWSAnyone/gws-helper-dist/releases/download/v1.6.2/gws_helper-1.6.2.xpi"
+          "version": "1.6.3",
+          "update_link": "https://github.com/GWSAnyone/gws-helper-dist/releases/download/v1.6.3/gws_helper-1.6.3.xpi"
         }
       ]
     }
